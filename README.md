@@ -63,8 +63,8 @@ PCAP Analizi Yöntemleri	researchs/pcap-analysis.md	PCAP dosyalarının nasıl a
 
 ## Installation / *Kurulum*
 
-1. **Clone the Repository / *Depoyu Klonlayın***:  
-   ```bash
+
+   
   1. **Clone the Repository / *Depoyu Klonlayın***:
 ```bash
 git clone https://github.com/YOUR_USERNAME/Analysis-of-FortiGate-Firewall-Detection-Techniques.git
