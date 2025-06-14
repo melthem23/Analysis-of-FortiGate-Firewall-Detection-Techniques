@@ -111,30 +111,17 @@ Follow our coding standards (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
 ---
 
-## License / *Lisans*
 
-Licensed under the [MIT License](LICENSE.md).  
-*MIT Lisansı altında lisanslanmıştır.*
 
----
 
-## Acknowledgements / *Teşekkürler* (Optional)
-
-Thanks to:  
-- Awesome Library: For enabling X.  
-- Inspiration Source.  
-- Special thanks to...  
-
-*Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
 ---
 
 ## Contact / *İletişim* (Optional)
 
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
-Found a bug? Open an issue.  
+Project Maintainer:  - mltm@gmail.com
 
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+
 
 ---
 
