@@ -47,10 +47,6 @@ Proaktif Savunma ile FortiGate Firewall Değerlendirmesi: FortiGate firewall sis
 
 ---
 
-## Roadmap / *Yol Haritası*
-
-See our plans in [ROADMAP.md](ROADMAP.md).  
-*Yolculuğu görmek için [ROADMAP.md](ROADMAP.md) dosyasına göz atın.*
 
 ---
 
